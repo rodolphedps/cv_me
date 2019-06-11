@@ -1,0 +1,7 @@
+{
+  "name": "rodolphe-cv",
+  "private": true,
+  "dependencies": {
+    "postgresql": "0.0.1"
+  }
+}
